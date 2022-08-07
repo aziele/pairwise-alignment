@@ -423,10 +423,10 @@ dna4  dna5  40.9%  14.0
 
 
 ## Tests
-This module contains automated tests. If you want to check that everything works as intended, just run:
+If you want to check that everything works as intended, just run:
 
 ```
-python3 pairwise_alignment.py
+./test.py
 ```
 
 ## License
